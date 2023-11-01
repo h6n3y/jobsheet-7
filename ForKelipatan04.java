@@ -23,7 +23,7 @@ public class ForKelipatan04 {
             }
         }
 
-        System.out.printf("Bayaknya Bilangan %d dari 1 sampai 50 adalah %d\n", kelipatan, counter);
-        System.out.printf("Total Bilangan Kelipatan %d dari 1 sampai 50 adalah %d\n", kelipatan, total);
+        System.out.printf("Bayaknya Bilangan %d dari 1 sampai 50 adalah %d\n",kelipatan, counter);
+        System.out.printf("Total Bilangan Kelipatan %d dari 1 sampai 50 adalah %d\n",kelipatan, total);
     }
 }
